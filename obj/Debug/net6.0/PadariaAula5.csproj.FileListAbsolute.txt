@@ -1,0 +1,15 @@
+C:\Users\lucas.ribeiro\Desktop\TNT\Aula\LabAula5\PadariaAula5\bin\Debug\net6.0\PadariaAula5.exe
+C:\Users\lucas.ribeiro\Desktop\TNT\Aula\LabAula5\PadariaAula5\bin\Debug\net6.0\PadariaAula5.deps.json
+C:\Users\lucas.ribeiro\Desktop\TNT\Aula\LabAula5\PadariaAula5\bin\Debug\net6.0\PadariaAula5.runtimeconfig.json
+C:\Users\lucas.ribeiro\Desktop\TNT\Aula\LabAula5\PadariaAula5\bin\Debug\net6.0\PadariaAula5.dll
+C:\Users\lucas.ribeiro\Desktop\TNT\Aula\LabAula5\PadariaAula5\bin\Debug\net6.0\ref\PadariaAula5.dll
+C:\Users\lucas.ribeiro\Desktop\TNT\Aula\LabAula5\PadariaAula5\bin\Debug\net6.0\PadariaAula5.pdb
+C:\Users\lucas.ribeiro\Desktop\TNT\Aula\LabAula5\PadariaAula5\obj\Debug\net6.0\PadariaAula5.csproj.AssemblyReference.cache
+C:\Users\lucas.ribeiro\Desktop\TNT\Aula\LabAula5\PadariaAula5\obj\Debug\net6.0\PadariaAula5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.ribeiro\Desktop\TNT\Aula\LabAula5\PadariaAula5\obj\Debug\net6.0\PadariaAula5.AssemblyInfoInputs.cache
+C:\Users\lucas.ribeiro\Desktop\TNT\Aula\LabAula5\PadariaAula5\obj\Debug\net6.0\PadariaAula5.AssemblyInfo.cs
+C:\Users\lucas.ribeiro\Desktop\TNT\Aula\LabAula5\PadariaAula5\obj\Debug\net6.0\PadariaAula5.csproj.CoreCompileInputs.cache
+C:\Users\lucas.ribeiro\Desktop\TNT\Aula\LabAula5\PadariaAula5\obj\Debug\net6.0\PadariaAula5.dll
+C:\Users\lucas.ribeiro\Desktop\TNT\Aula\LabAula5\PadariaAula5\obj\Debug\net6.0\ref\PadariaAula5.dll
+C:\Users\lucas.ribeiro\Desktop\TNT\Aula\LabAula5\PadariaAula5\obj\Debug\net6.0\PadariaAula5.pdb
+C:\Users\lucas.ribeiro\Desktop\TNT\Aula\LabAula5\PadariaAula5\obj\Debug\net6.0\PadariaAula5.genruntimeconfig.cache
