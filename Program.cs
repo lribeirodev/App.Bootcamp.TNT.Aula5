@@ -1,52 +1,5 @@
 ﻿using System.Collections;
 
-public class Produto
-{
-    // Atributos
-    private string nome { get; set; }
-    private int qtd {get;set;}
-    // Construtor
-    public Produto(string nome, int qtd)
-    {
-        this.nome = nome;
-        this.qtd = qtd;
-    }
-
-    // Funções Auxiliares
-    public override string ToString()
-    {
-        return $"qtd: {qtd} produto: {nome}";
-    }
-}
-
-public class Pedido{
-
-    private Random r = new Random();
-    private int numPedido {get; set;}
-    private Produto[] produto {get; set;}
-
-    public Pedido(Produto[] produto)
-    {   
-        this.produto = produto;
-        this.numPedido = r.Next(9000) * produto.Length;
-    }
-
-    public int getPedidoNumero(){
-        return this.numPedido;
-    }
-
-    // Criando Array que Imprime os Produtos
-    public override string ToString()
-    {  
-        string listaProdutos = "";
-        foreach(Produto item in this.produto){
-            listaProdutos += item.ToString() + "\n";
-        }
-        return $"\n=============\nPedido Nº [{this.numPedido}]: \nLista de Produtos\n{listaProdutos} \n=============\n";
-    }
-
-}
-
 public class Padaria
 {  
     // Atributos
@@ -55,7 +8,6 @@ public class Padaria
     private const string nomePadaria = "Padaria do seu Zé";
     private static string[] rawProdutos = {"Pão Francês","Sonho Doce de Leite","Cafézinho","Lanche"};
 
-    
     // Ponto de Entrada da Aplicação
     public static void Main(string[] args)
     {  
